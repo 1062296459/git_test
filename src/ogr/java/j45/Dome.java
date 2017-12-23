@@ -7,7 +7,7 @@ public class Dome {
 		// 1111111
 		// 22222222
 		// 5555555
-		// …ß÷Ì
+
 		System.out.println("33333333");
 	}
 
